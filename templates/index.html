@@ -1,0 +1,42 @@
+{% extends "juice/templates/index.html" %} {% block hero %}
+
+<section class="text-center">
+    <h1 class="heading-text" style="font-size: 50px">
+        Workshop on Computer-Aided Proofs of Security (CAPS)
+    </h1>
+    <h3 class="title-text">
+        <b>CAPS</b> will give you an overview of the formal
+        verification tool landscape for cryptographic security, for
+        primitives and protocols, and from symbolic to computational
+        security and everything in between.
+    </h3>
+</section>
+<img class="hero-image" style="width: 50%" src="{{ get_url(path=config.extra.juice_logo_path) }}">
+
+<div class="explore-more text"
+     onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">
+    Explore More ⇩
+</div>
+<style>
+    .hero section {
+        padding: 0 5rem;
+    }
+
+    @media screen and (max-width: 768px) {
+        .hero section {
+            padding: 0 2rem;
+        }
+
+        .hero-image {
+            display: none
+        }
+    }
+</style>
+
+
+{% endblock hero %}
+
+
+{% block sidebar %}
+
+{% endblock sidebar %}
