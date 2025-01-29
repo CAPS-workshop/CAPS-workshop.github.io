@@ -17,5 +17,5 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-juice_logo_name = "CAPS Workshop"
+juice_logo_name = "CAPS"
 juice_logo_path = "caps-logo.png"
