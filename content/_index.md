@@ -22,7 +22,7 @@ We have confirmed speakers presenting
 
 CAPS'25 will be held in Madrid, Spain, on Sunday, May 4., as a [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/) affiliated event. Please register through the Eurocrypt 2025 [website](https://eurocrypt.iacr.org/2025/registration.php) by selecting CAPS as your "workshop day 2" event.
 
-If you are exected about CAPS, the [ProTeCS workshop](https://protecs-workshop.gitlab.io/) may also interest you. It provides a less verification-focused take on cryptographic proofs on the day before CAPS.
+If you are exicted about CAPS, the [ProTeCS workshop](https://protecs-workshop.gitlab.io/) may also interest you. It provides a less verification-focused take on cryptographic proofs on the day before CAPS.
 
 ## Organizers
 - Deirdre Connolly, SandboxAQ
