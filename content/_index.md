@@ -13,9 +13,10 @@ The workshop's aim is to give cryptographers an overview of the current tool lan
 The program is still 🚧 under construction 🚧 and will be updated with more detail shortly.
 
 We have confirmed speakers presenting
-- EasyCrypt
-- Tamarin
-- ProVerif
+- [EasyCrypt](https://www.easycrypt.info/)
+- [Tamarin](https://tamarin-prover.com/)
+- [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/)
+- [ProofFrog](https://prooffrog.github.io/)
 - 🚧 and more to come 🚧
 
 ## Practical Information
