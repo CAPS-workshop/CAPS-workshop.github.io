@@ -21,7 +21,7 @@ that are interested in computer-aided security proofs.
 
 We have confirmed speakers presenting:
 
-|                                                                                          |
+| Program                                                                                  |
 |------------------------------------------------------------------------------------------|
 | Overview by the [organizers](#organizers)                                                |
 | [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
