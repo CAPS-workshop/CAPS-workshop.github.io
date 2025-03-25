@@ -17,25 +17,25 @@ landscape around cryptographic security proofs, from the perspective of how
 together researchers and practitioners in cryptography and formal methods
 that are interested in computer-aided security proofs.
 
-## [Program][#program] {#program}
+## [Program](#program) {#program}
 
 We have confirmed speakers presenting:
 
 |                                                                                          |
 |------------------------------------------------------------------------------------------|
-| Overview by the [organizers][#organizers]                                                |
-| [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir][https://fdupress.net/] |
+| Overview by the [organizers](#organizers)                                                |
+| [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
 | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
 | [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
 | [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                             |
 
 
-## [Date and Location][#date-and-location] {#date-and-location}
+## [Date and Location](#date-and-location) {#date-and-location}
 
 **Date**: Sunday, May 4th, 2025
 
-**Location**: [Facultad de Ciencias Matemáticas][https://www.ucm.es/mathematics/how-to-get-to-the-faculty],
-[Universidad Complutense de Madrid (UCM)][https://maps.app.goo.gl/dcYnGPhjSZ4Bebh37]in Madrid, Spain.
+**Location**: [Facultad de Ciencias Matemáticas](https://www.ucm.es/mathematics/how-to-get-to-the-faculty),
+[Universidad Complutense de Madrid (UCM)](https://maps.app.goo.gl/dcYnGPhjSZ4Bebh37)in Madrid, Spain.
 (Room TBD.)
 
 The venue is near the Ciudad Universitaria (line 6) metro stop.
@@ -45,13 +45,13 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.1688322730834!2d
 width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
 referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## [Registration][#registration] {#registration}
+## [Registration](#registration) {#registration}
 
 Please register through the Eurocrypt 2025
 [website](https://eurocrypt.iacr.org/2025/registration.php) by selecting CAPS
 as your "workshop day 2" event.
 
-## [Related Events][#related-events] {#related-events}
+## [Related Events](#related-events) {#related-events}
 
 CAPS'25 will be held in Madrid, Spain, on Sunday, May 4th, as a
 [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/) affiliated event.
@@ -62,7 +62,7 @@ If you are exicted about CAPS, the [ProTeCS workshop](https://protecs-workshop.g
 may also interest you. It provides a less verification-focused take on cryptographic
 proofs on the day before CAPS.
 
-## [Organizers][#organizers] {#organizers}
+## [Organizers](#organizers) {#organizers}
 
 - Deirdre Connolly, SandboxAQ
 - Philipp Haselwarter, Aarhus University
