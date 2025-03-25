@@ -19,7 +19,7 @@ that are interested in computer-aided security proofs.
 
 ## [Program](#program) {#program}
 
-|                                                                                                        |
+|             |                                                                                          |
 | :------------------------------------------------------------------------------------------------------|
 | 9:00-9:30   | Overview by the [organizers](#organizers)                                                |
 | 9:30-10:30  | [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
