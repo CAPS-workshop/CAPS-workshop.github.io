@@ -19,15 +19,18 @@ that are interested in computer-aided security proofs.
 
 ## [Program](#program) {#program}
 
-We have confirmed speakers presenting:
+|                                                                                                        |
+| :------------------------------------------------------------------------------------------------------|
+| 9:00-9:30   | Overview by the [organizers](#organizers)                                                |
+| 9:30-10:30  | [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
+| 10:30-11:00 | coffee break                                                                             |
+|             | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
+| 13:00-14:15 | lunch break                                                                              |
+|             | [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
+| 15:15-15:45 | coffee break                                                                             |
+|             | [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                             |
 
-| Program                                                                                  |
-|------------------------------------------------------------------------------------------|
-| Overview by the [organizers](#organizers)                                                |
-| [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
-| [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
-| [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
-| [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                             |
+(Subject to change)
 
 
 ## [Date and Location](#date-and-location) {#date-and-location}
