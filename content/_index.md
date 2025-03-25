@@ -21,13 +21,13 @@ that are interested in computer-aided security proofs.
 
 We have confirmed speakers presenting:
 
-|                                                                               |
-|-------------------------------------------------------------------------------|
-| Overview by the [organizers][#organizers]                                     |
-| [EasyCrypt](https://www.easycrypt.info/) by François Dupressoir               |
-| [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval |
-| [Tamarin](https://tamarin-prover.com/) by Cas Cremers                         |
-| [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                  |
+|                                                                                          |
+|------------------------------------------------------------------------------------------|
+| Overview by the [organizers][#organizers]                                                |
+| [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir][https://fdupress.net/] |
+| [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
+| [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
+| [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                             |
 
 
 ## [Date and Location][#date-and-location] {#date-and-location}
