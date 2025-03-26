@@ -19,8 +19,6 @@ that are interested in computer-aided security proofs.
 
 ## [Program](#program) {#program}
 
-### Computational close, symbolic close but split across break
-
 |             |                                                                                                                                  |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-9:30   | Overview by the [organizers](#organizers)                                                                                        |
@@ -33,7 +31,7 @@ that are interested in computer-aided security proofs.
 | 13:00-14:15 | lunch break                                                                                                                      |
 | 14:15-15:15 | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by [Vincent Cheval](https://chevalvi.gitlabpages.inria.fr/chevalvi/) |
 | 15:15-15:45 | coffee break                                                                                                                     |
-| 15:45-17:15 | Round Table                                                                                                                      |
+| 15:45-17:15 | Round Table with Tool Developers                                                                                                 |
 
 (Subject to change)
 
