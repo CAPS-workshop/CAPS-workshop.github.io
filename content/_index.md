@@ -31,7 +31,7 @@ that are interested in computer-aided security proofs.
 | 12:00-12:15 | Symbolic Security Pen & Paper Proof (Cas Cremers)                                        |
 | 12:15-13:00 | [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
 | 13:00-14:15 | lunch break                                                                              |
-| 14:15:15:15 | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
+| 14:15-15:15 | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
 | 15:15-15:45 | coffee break                                                                             |
 | 15:45-17:15 | Round Table                                                                              |
 
