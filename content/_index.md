@@ -19,6 +19,40 @@ that are interested in computer-aided security proofs.
 
 ## [Program](#program) {#program}
 
+### Computational close, symbolic close but split across break
+
+|             |                                                                                          |
+|-------------|------------------------------------------------------------------------------------------|
+| 9:00-9:30   | Overview by the [organizers](#organizers)                                                |
+| 9:30-9:45   | Computational Security Pen & Paper Proof (Douglas Stebila)                               |
+| 9:45-10:30  | [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                             |
+| 10:30-11:00 | coffee break                                                                             |
+| 11:00-12:00 | [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
+| 12:00-12:15 | Symbolic Security Pen & Paper Proof (Cas Cremers)                                        |
+| 12:15-13:00 | [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
+| 13:00-14:15 | lunch break                                                                              |
+| 14:15:15:15 | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
+| 15:15-15:45 | coffee break                                                                             |
+| 15:45-17:15 | Round Table                                                                              |
+
+### Symbolic combined in one session
+
+|             |                                                                                          |
+|-------------|------------------------------------------------------------------------------------------|
+| 9:00-9:30   | Overview by the [organizers](#organizers)                                                |
+| 9:30-9:45   | Computational Security Pen & Paper Proof (Douglas Stebila)                               |
+| 9:45-10:30  | [ProofFrog](https://prooffrog.github.io/) by Douglas Stebila                             |
+| 10:30-11:00 | coffee break                                                                             |
+| 11:00-11:15 | Symbolic Security Pen & Paper Proof (Cas Cremers)                                        |
+| 11:15-12:15 | [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by Vincent Cheval            |
+| 12:15-13:00 | [Tamarin](https://tamarin-prover.com/) by Cas Cremers                                    |
+| 13:00-14:15 | lunch break                                                                              |
+| 14:15:15:15 | [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/) |
+| 15:15-15:45 | coffee break                                                                             |
+| 15:45-17:15 | Round Table                                                                              |
+
+
+### Initial Proposal
 |             |                                                                                          |
 | ------------|------------------------------------------------------------------------------------------|
 | 9:00-9:30   | Overview by the [organizers](#organizers)                                                |
