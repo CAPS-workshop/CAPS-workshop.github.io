@@ -26,7 +26,7 @@ that are interested in computer-aided security proofs.
 | 9:45-10:30  | KEM-DEM & more in [ProofFrog](https://prooffrog.github.io/) by [Douglas Stebila](https://www.douglas.stebila.ca/)                                       |
 | 10:30-11:00 | coffee break                                                                                                                                            |
 | 11:00-12:00 | KEM-DEM & more in [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/)                                              |
-| 12:00-12:15 | Protocols: Key Exchange Security Pen & Paper Proof by [Doreen Riepel](https://doreenriepel.me/)                                                         |
+| 12:00-12:15 | Protocols: Key Exchange Security Pen & Paper Proof                                                                                                      |
 | 12:15-13:00 | Key Exchange & more in [Tamarin](https://tamarin-prover.com/) by [Cas Cremers](https://cispa.saarland/group/cremers/index.html)                         |
 | 13:00-14:15 | lunch break                                                                                                                                             |
 | 14:15-15:15 | Key Exchange & more in [ProVerif](https://bblanche.gitlabpages.inria.fr/proverif/) by [Vincent Cheval](https://chevalvi.gitlabpages.inria.fr/chevalvi/) |
