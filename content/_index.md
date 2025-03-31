@@ -68,6 +68,12 @@ If you are excited about CAPS, the [ProTeCS workshop](https://protecs-workshop.g
 may also interest you. It provides a less verification-focused take on cryptographic
 proofs on the day before CAPS.
 
+## [Resources](#resources) {#resources}
+
+Material presented in the talks: 🚧 under construction 🚧
+
+Tool tutorial material: 🚧 under construction 🚧
+
 ## [Organizers](#organizers) {#organizers}
 
 - [Deirdre Connolly](https://durumcrustulum.com/), SandboxAQ
