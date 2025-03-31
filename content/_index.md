@@ -70,9 +70,9 @@ proofs on the day before CAPS.
 
 ## [Organizers](#organizers) {#organizers}
 
-- Deirdre Connolly, SandboxAQ
-- Philipp Haselwarter, Aarhus University
-- Sabine Oechsner, Vrije Universiteit Amsterdam
+- [Deirdre Connolly](https://durumcrustulum.com/), SandboxAQ
+- [Philipp Haselwarter](https://haselwarter.org/), Aarhus University
+- [Sabine Oechsner](https://soechsner.de/), Vrije Universiteit Amsterdam
 
 
 _Last updated March 25, 2025_
