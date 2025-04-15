@@ -70,8 +70,7 @@ proofs on the day before CAPS.
 
 ## [Resources](#resources) {#resources}
 
-- Material presented in the talks: 🚧 under construction 🚧
-- Tool tutorial material: 🚧 under construction 🚧
+- Material presented in the talks: to be added after the workshop.
 - List of [Verification Projects](https://www.hacs-workshop.org/links.html) curated by the High-Assurance Cryptographic Software Workshop
 
 ## [Organizers](#organizers) {#organizers}
@@ -81,4 +80,4 @@ proofs on the day before CAPS.
 - [Sabine Oechsner](https://soechsner.de/), Vrije Universiteit Amsterdam
 
 
-_Last updated March 31, 2025_
+_Last updated April 15, 2025_
