@@ -21,7 +21,7 @@ that are interested in computer-aided security proofs.
 
 |             |                                                                                                                                                         |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9:00-9:30   | Overview by the [organizers](#organizers)                                                                                                               |
+| 9:00-9:30   | Workshop Introduction and Security Overview by the [organizers](#organizers)                                                                                                               |
 | 9:30-9:45   | Primitives: KEM-DEM Security Pen & Paper Proof                                                                                                          |
 | 9:45-10:30  | KEM-DEM & more in [ProofFrog](https://prooffrog.github.io/) by [Douglas Stebila](https://www.douglas.stebila.ca/)                                       |
 | 10:30-11:00 | coffee break                                                                                                                                            |
