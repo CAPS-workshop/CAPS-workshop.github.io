@@ -41,8 +41,7 @@ that are interested in computer-aided security proofs.
 **Date**: Sunday, May 4th, 2025
 
 **Location**: [Facultad de Ciencias Matemáticas](https://www.ucm.es/mathematics/how-to-get-to-the-faculty),
-[Universidad Complutense de Madrid (UCM)](https://maps.app.goo.gl/dcYnGPhjSZ4Bebh37)in Madrid, Spain.
-(Room TBD.)
+[Universidad Complutense de Madrid (UCM)](https://maps.app.goo.gl/dcYnGPhjSZ4Bebh37)in Madrid, Spain, Room S-108.
 
 The venue is near the Ciudad Universitaria (line 6) metro stop.
 
