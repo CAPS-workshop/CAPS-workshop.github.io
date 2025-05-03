@@ -22,7 +22,7 @@ that are interested in computer-aided security proofs.
 |             |                                                                                                                                                         |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-9:30   | Workshop Introduction and Security Overview by the [organizers](#organizers)                                                                                                               |
-| 9:30-9:45   | Primitives: KEM-DEM Security Pen & Paper Proof                                                                                                          |
+| 9:30-9:45   | Primitives: KEM-DEM Security [Pen & Paper Proof](https://garbledcircus.com/kemdem/left-right)                                                                                                          |
 | 9:45-10:30  | [KEM-DEM & more](https://github.com/proof-ladders/asymmetric-ladder/tree/main/kemdem/ProofFrog) in [ProofFrog](https://prooffrog.github.io/) by [Douglas Stebila](https://www.douglas.stebila.ca/)                                       |
 | 10:30-11:00 | coffee break                                                                                                                                            |
 | 11:00-12:00 | [KEM-DEM & more](https://github.com/proof-ladders/asymmetric-ladder/blob/main/kemdem/KEMDEM.ec) in [EasyCrypt](https://www.easycrypt.info/) by [François Dupressoir](https://fdupress.net/)                                              |
@@ -32,8 +32,6 @@ that are interested in computer-aided security proofs.
 | 14:15-15:00 | [Signed Diffie-Hellman & more](https://github.com/proof-ladders/protocol-ladder/blob/main/signedDH/signedDH.spthy) in [Tamarin](https://tamarin-prover.com/) by [Cas Cremers](https://cispa.saarland/group/cremers/index.html)                         |
 | 15:00-15:45 | coffee break                                                                                                                                            |
 | 15:45-17:15 | Round Table with Tool Developers: The State of Computer-Aided Proofs of Security                                                                        |
-
-(Subject to change)
 
 
 ## [Date and Location](#date-and-location) {#date-and-location}
