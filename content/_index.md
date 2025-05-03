@@ -19,6 +19,8 @@ that are interested in computer-aided security proofs.
 
 ## [Program](#program) {#program}
 
+Follow the title links for materials presented in the CAPS talk. Follow the tool link for installation- and general usage instructions.
+
 |             |                                                                                                                                                         |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00-9:30   | Workshop Introduction and Security Overview by the [organizers](#organizers)                                                                                                               |
