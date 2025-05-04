@@ -23,7 +23,7 @@ Follow the title links for materials presented in the CAPS talk. Follow the tool
 
 |             |                                                                                                                                                         |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9:00-9:30   | Workshop Introduction and Security Overview by the [organizers](#organizers)                                                                                                               |
+| 9:00-9:30   | [Workshop Introduction and Security Overview](./CAPS2025-intro.pdf) by the [organizers](#organizers)                                                                                                               |
 | 9:30-10:00   | Primitives: KEM-DEM Security [Pen & Paper Proof](https://prooffrog.github.io/assets/caps-2025-presentation-prooffrog.pdf)                                                                                                          |
 | 10:00-10:30  | [KEM-DEM & more](https://prooffrog.github.io/caps-2025.html) in [ProofFrog](https://prooffrog.github.io/) by [Douglas Stebila](https://www.douglas.stebila.ca/)                                       |
 | 10:30-11:00 | coffee break                                                                                                                                            |
